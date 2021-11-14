@@ -15,6 +15,8 @@
     @EnableEurekaClient
 
 ### EndPoints
+    GATEWAY PORT : 8092
+
     POST http://localhost:8091/address/
     {
         "city": "Noida",
